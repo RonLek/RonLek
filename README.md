@@ -1,4 +1,4 @@
-<img width="100%" src="rohan_lekhwani_header.gif"></img>
+<img width="100%" src="https://media.giphy.com/media/kSFrSIH9wIEJ2fBtQR/giphy.gif"></img>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;
 [![Google Scholar](https://img.shields.io/badge/google_scholar-googlescholar?&style=for-the-badge&logo=google-scholar&logoColor=blue&color=white)][scholar]&nbsp;
